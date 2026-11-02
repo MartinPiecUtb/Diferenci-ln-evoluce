@@ -1,0 +1,6 @@
+Sphere     Rand/1  | mean: 1.26978e-14
+Sphere     Best/1  | mean: 0.0127472
+Sphere     jDE     | mean: 1.13906e-15
+Rastrigin  Rand/1  | mean: 23.9618
+Rastrigin  Best/1  | mean: 13.945
+Rastrigin  jDE     | mean: 0.099618
