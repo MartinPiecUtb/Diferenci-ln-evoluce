@@ -1,0 +1,7 @@
+Boli implementované a porovnané 3 varianty diferenciálnej evolúcie: Rand/1, Best/1 a jDE. 
+Testovanie prebehlo na funkciách Sphere a Rastrigin v 10 dimenziách, s limitom 10 000 vyhodnotení a 10 opakovaniami.
+
+Najlepšie priemerné výsledky na oboch funkciách dosiahlo jDE. 
+Pri funkcii Sphere sa jDE aj Rand/1 priblížili k optimálnej hodnote 0, zatiaľ čo Best/1 po rýchlom počiatočnom zlepšení stagnovalo. 
+Pri funkcii Rastrigin dosiahlo jDE priemer 0.099618, Best/1 hodnotu 13.945 a Rand/1 hodnotu 23.9618. 
+Grafy potvrdzujú postupné zlepšovanie riešení a ukazujú výhodu adaptácie parametrov F a CR pri tomto nastavení experimentu.
